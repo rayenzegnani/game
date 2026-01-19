@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Space Dodger: Galactic Survival",
+  "description": "A high-octane 2D arcade survival game built with React, TypeScript, and HTML5 Canvas. Navigate your spaceship through a perilous asteroid field, collect power-ups, and compete for the high score.",
+  "requestFramePermissions": []
+}
